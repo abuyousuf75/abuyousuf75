@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abu Yousuf Sajib</h1>
 <h3 align="center">A Mern Stack Web Developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abuyousuf75&label=Profile%20views&color=0e75b6&style=flat" alt="abuyousuf75" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abuyousuf75" alt="abuyousuf75" /></a> </p>
-
 - 🌱 I’m currently learning **Next Js , Typescript , NodeJs ,Postgresql**
 
+- 👯 I’m looking to collaborate on **on your nodejs(mern) projects**
+
 - 👨‍💻 All of my projects are available at [https://abuyousuf75.github.io/myPortfolio/](https://abuyousuf75.github.io/myPortfolio/)
+
+- 💬 Ask me about **react, typescript , nextJs**
 
 - 📫 How to reach me **mdabuyousufsajib@gmail.com**
 
